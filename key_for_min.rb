@@ -5,4 +5,5 @@ def key_for_min_value(name_hash)
 low_value=0
 low_key=0
 
+name_hash.do 
 end
